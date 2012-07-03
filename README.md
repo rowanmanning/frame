@@ -3,8 +3,9 @@ Frame
 =====
 
 Frame is a light-weight HTML scaffold for you to test your
-stylesheets against. That's all, just a HTML document with lots
-of elements. It's useful!
+stylesheets against.  
+That's all, just a HTML document with lots of elements. It's
+useful!
 
 
 Using Frame
