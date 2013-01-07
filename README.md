@@ -22,10 +22,9 @@ Here are some other ideas:
 License
 -------
 
-Copyright 2012, Rowan Manning  
-Dual licensed under the [MIT][mit] or [GPL Version 2][gpl2] licenses.
+Copyright 2013, Rowan Manning  
+Licensed under the [MIT][mit] license.
 
 
-[gpl2]: http://opensource.org/licenses/gpl-2.0.php
 [mit]: http://opensource.org/licenses/mit-license.php
 [rowan]: http://rowanmanning.co.uk/styleguide
