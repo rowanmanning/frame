@@ -27,4 +27,4 @@ Licensed under the [MIT][mit] license.
 
 
 [mit]: http://opensource.org/licenses/mit-license.php
-[rowan]: http://rowanmanning.co.uk/styleguide
+[rowan]: http://rowanmanning.com/styleguide/
