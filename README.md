@@ -5,6 +5,8 @@ Frame
 Frame is a light-weight HTML scaffold for you to test your stylesheets against.  
 That's all, just a HTML document with lots of elements. It's useful!
 
+**⚠️ NOTE: This project is no longer being maintained. If you're interested in taking over maintenance, please contact me.**
+
 
 Using Frame
 -----------
